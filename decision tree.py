@@ -14,7 +14,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 def decision_titanic():
 
-    titanic= pd.read_csv("C:\\Users\\pc\\Desktop\\PYTHON\\机器学期\\day2\\titanic.csv")
+    titanic= pd.read_csv("titanic.csv")
 
     #print(titanic.head())
 
